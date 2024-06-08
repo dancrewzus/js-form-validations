@@ -1,0 +1,13 @@
+input {
+  border-radius: 12px !important;
+}
+
+.error {
+  color: rgb(233, 35, 35);
+  font-size: 0.9em;
+  display: none;
+}
+
+.text-footer {
+  color: white !important;
+}
